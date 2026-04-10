@@ -1,0 +1,1 @@
+web: gunicorn jango_deploy.wsgi
